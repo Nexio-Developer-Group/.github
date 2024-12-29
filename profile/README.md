@@ -24,4 +24,4 @@ Nexio Developer Group (NDG) is all about coming together to solve real-world cha
 
 ### Current Leader
 
-- [Self-Lakshh]("https://github.com/Self-Lakshh")
+- [Self-Lakshh](https://github.com/Self-Lakshh)
