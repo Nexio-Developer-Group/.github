@@ -1,5 +1,5 @@
 
-[About Us](ReadMeFiles/aboutus.png)
+![About Us](ReadMeFiles/aboutus.png)
 
 # Nexio Developer Group
 
